@@ -1,0 +1,39 @@
+@import "../assets/sass/variables.scss";
+
+.contenedor_prin{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $nombredelavariable;
+
+
+    .imagen{
+        width: auto;
+        height: 100%;
+    }
+    .nombre{
+        text-align: center;
+        padding: 40px;
+        font-weight: 400;
+        line-height: 1.5rem;
+        width: 100%;
+
+        .main{
+            font-size: 1.3rem;
+        }
+        .cargoE{
+            font-size: 1.3rem;
+            margin-top: 15px;
+            padding-bottom: 30px;
+        }
+        .test{
+            font-size: 1.1rem;
+            text-align: center;
+
+        }
+    }
+
+}
