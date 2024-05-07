@@ -1,0 +1,11 @@
+identificar si un texto es un PANGRAMA -- 1 linea
+
+contar del 1 al 100 y e imprimir lo siguiente en los
+    los siguientes casos
+        - multiplo de 3 - "fizz"
+        - multiplo de 5 - "fuzz"
+        - multiplo de 3 y 5 - "Caera la republica" -- function
+
+imprimir una piramide de la altura que se solicite por el
+    usuario
+    -- una funcion o for
